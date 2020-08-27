@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\src"
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Components\\Body"
   ],
-  "SelectedNode": "\\public\\index.html",
+  "SelectedNode": "\\src\\Components\\Body\\Body.js",
   "PreviewInSolutionExplorer": false
 }
